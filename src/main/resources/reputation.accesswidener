@@ -1,0 +1,7 @@
+accessWidener v2 named
+
+accessible field net/minecraft/world/entity/ai/goal/target/NearestAttackableTargetGoal targetType Ljava/lang/Class;
+accessible field net/minecraft/world/entity/ai/Brain sensors Ljava/util/Map;
+accessible field net/minecraft/world/entity/ai/Brain memories Ljava/util/Map;
+accessible method net/minecraft/world/entity/npc/Villager setUnhappy ()V
+accessible field net/minecraft/client/renderer/entity/EntityRenderer entityRenderDispatcher Lnet/minecraft/client/renderer/entity/EntityRenderDispatcher;

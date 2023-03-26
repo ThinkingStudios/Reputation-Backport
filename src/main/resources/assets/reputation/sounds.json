@@ -1,0 +1,32 @@
+{
+  "increase_reputation": {
+		"category": "hostile",
+		"sounds": [{
+			"name": "reputation:reputation_increase"
+		}]
+	},
+  "decrease_reputation": {
+		"category": "hostile",
+		"sounds": [{
+			"name": "reputation:reputation_decrease"
+		}]
+	},
+	"flee": {
+		"category": "hostile",
+		"sounds": [{
+			"name": "reputation:flee"
+		}]
+	},
+	"ledger_place": {
+		"category": "blocks",
+		"sounds": [{
+			"name": "reputation:ledger_place"
+		}]
+	},
+	"ledger_sign": {
+		"category": "hostile",
+		"sounds": [{
+			"name": "reputation:ledger_sign"
+		}]
+	}
+}

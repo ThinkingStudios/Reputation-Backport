@@ -1,0 +1,12 @@
+{
+  "required": true,
+  "package": "mods.thecomputerizer.reputation.mixin",
+  "compatibilityLevel": "JAVA_8",
+  "refmap": "reputation.mixin.refmap.json",
+  "mixins": [
+    "MixinVillager"
+  ],
+  "injectors": {
+    "defaultRequire": 1
+  }
+}
